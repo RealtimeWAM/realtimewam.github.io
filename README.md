@@ -2,7 +2,7 @@
 
 Public project page for **RealtimeWAM: How Fast Can I Run My World Action Model?**
 
-- Website: https://na2ssss.github.io/realtimewam-project/
+- Website: https://realtimewam.github.io/
 - Paper: https://arxiv.org/abs/2610.10079
 - Code: https://github.com/Na2Ssss/RealtimeWAM
 
@@ -18,6 +18,6 @@ Open `http://localhost:8000/`. This is a static website: no package installation
 
 ## Publish
 
-GitHub Pages serves the root of the `main` branch. Push changes to `main` to update the public page. `.nojekyll` disables Jekyll processing.
+GitHub Pages serves the root of the `main` branch in `RealtimeWAM/realtimewam.github.io`. Push changes to `main` to update the public page. `.nojekyll` disables Jekyll processing.
 
 Paper results cover FastWAM and OpenWAM. The linked code release currently implements the three RealtimeWAM components for OpenWAM.

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://na2ssss.github.io/realtimewam-project/sitemap.xml
+Sitemap: https://realtimewam.github.io/sitemap.xml
